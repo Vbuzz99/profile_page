@@ -1,0 +1,27 @@
+<html>
+	<head>
+	<title>C D</title>
+	</head>
+
+<body>
+<i><h2><u><font color="green">Contact Details</font></u></h2></i>
+<br>
+<ul>
+	<li>Telephone No.</li>
+		<br>
+		<ol type="i">
+		<li>Mobile No. : 076 2759474</li>
+		<li>Landline No. : 034 2257086</li>
+		</ol>
+<br>
+
+	<li>Email    : virajbuzz@gmail.com </li>
+<br>
+		
+	<li>Permenent Adress :<blockquote>231/B/1, Weediyagoda rd, Gonapola junction.</blockquote></li>
+</ul>
+
+<br/><br/><br/><br/>
+<a href="../Main frame.html#top">previous page</a></br>
+</body>
+</html>

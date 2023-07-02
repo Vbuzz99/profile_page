@@ -1,0 +1,45 @@
+<html>
+	<head>
+	<title>Family</title>
+<style type="text/css">
+
+	img.paper{position:absolute;left:0px;top:0px;z-index:-1}
+	
+</style>		
+	</head>
+
+<body>
+<img class="paper" src="paper1.jpg" width="100%" height="500px" >
+<h1>Family info :</h1>
+<table border="1" cellpadding="2">
+
+	<tr>
+		<td>                       </td>
+		<td width="30"><i><b>Age </b><i></td>	
+		<td ><i><b>Designation</b><i></td>
+		<td><i><b>Place of Working/Studying</b><i></td>
+	<tr>
+		<td><b>Father   </b></td>
+		<td><i><b>56  </b><i></td>	
+		<td><i><b>  Deputy Survey General     </b><i></td>
+		<td><i><b>Survey General's Office, Narahenpita</b><i></td>	
+	</tr>
+	<tr>
+		<td><b>Sister   : </b></td>
+		<td><i><b>25</b><i></td>
+		<td><i><b>Student</b><i></td>	
+		<td><i><b>University Of Uwa Wellassa</b><i></td>	
+	</tr>
+	<tr>
+		<td><b>Brother </b></td>
+		<td><i><b>15</b><i></td>
+		<td><i><b>Student</b><i></td>		
+		<td><i><b>D.S Senanayake College</b><i></td>	
+	</tr>
+	
+	
+   </table>
+</p>
+
+</body>
+</html>

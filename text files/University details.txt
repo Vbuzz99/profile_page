@@ -1,0 +1,39 @@
+<html>
+	<head>
+	<title>U D</title>
+	</head>
+
+<body>
+<i><h2><u><font color="green">University Details</font></u></h2></i>
+<table cellpadding="10" cellspacing="5" class="content-table">
+<thead>
+	<tr>
+		<td colspan="2"></td
+	</tr>
+	
+</thead>
+<tbody>
+	<tr >
+		<td>Registration No :</td>
+		<td><i>2019s17591</i></td>		
+	</tr>
+	<tr>
+		<td>Index No : </td>
+		<td><i>s15025</i></td>
+	</tr>
+	<tr>
+		<td>Course Name :</td>
+
+		<td><i><abbr title="Industial Statistics & Mathematical Finance">IS & MF</abbr></i></td>
+	</tr >	
+	<tr>
+		<td>Degree type :</td>
+		<td><i>Bachelor of Science</i></td>
+	<tr >
+</tbody>
+</table>
+
+<br/><br/><br/><br/>
+<a href="../Main frame.html#top">previous page</a></br>
+</body>
+</html>
